@@ -1,6 +1,6 @@
 # HTTP Cache Revalidation Quirks
 
-This document captures pathological examples of HTTP exchanges, all thematically
+This document captures pathological examples of HTTP exchanges, all thematically related
 by confusion over the scope of a validator, in which all parties adhere strictly
 to RFC 9110 and 9111 requirements, but either are forced by specified
 requirements into an undesirable outcome, or behavior required to achieve a
